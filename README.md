@@ -1,1 +1,8 @@
-# 10_contest_Yandex_algorithms_3
+![10_contest_Yandex_algorithms_3](images/Yandex_C_3.png)
+
+Результат моего участия в Соревнонваиях "Алгоритмы 3.0", проводимые Yandex.
+
+Дата проведения 13 Февраля - 13 Марта.
+Группа "B"
+
+Результат:
