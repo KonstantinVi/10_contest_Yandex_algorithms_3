@@ -26,15 +26,3 @@ for k in guest_02:
 
     print(right_ind)
 
-#print(*a_mass, sep='\n')
-#print('\n'.join(map(str, a_mass)))
-
-# ---------open-out-file---------------------
-#file_3 = open("output.txt", "w")
-#for i in range(len(a_mass)):  # построчный вывод
-#    if i != (len(a_mass) - 1):
-#        file_3.write(f'{a_mass[i]}\n')
-#    else:
-#        file_3.write(f'{a_mass[i]}')
-#file_3.close()
-# ---------close-out-file---------------------
