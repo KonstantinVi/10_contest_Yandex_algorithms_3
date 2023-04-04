@@ -23,4 +23,4 @@
 
 Все решения решённых задачи лежат в данном репозитории
 
-Telegram bot с ответами https://t.me/gettestfromcontestbot
+Telegram bot с Тестами https://t.me/gettestfromcontestbot
