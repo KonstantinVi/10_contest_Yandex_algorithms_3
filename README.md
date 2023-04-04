@@ -1,6 +1,6 @@
 ![10_contest_Yandex_algorithms_3](images/Yandex_C_3.png)
 
-### <span style="color:#cccccc">Результат моего участия в соревнонваиях "Алгоритмы 3.0", проводимые <span style="color:#ff314e">Y</span>andex.</span>
+### $\mathfrak{\color{#00A2E3}Результат моего участия в соревнонваиях "Алгоритмы 3.0", проводимые Yandex.}$
 
 #### <span style="color:#a5a5a5">Дата проведения <span style="color:#f5cc05">13 Февраля - 13 Марта</span>.</span>
 #### <span style="color:#a5a5a5">Дивизион B</span>
