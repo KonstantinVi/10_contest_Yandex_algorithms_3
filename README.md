@@ -24,3 +24,7 @@
 Все решения решённых задачи лежат в данном репозитории
 
 Telegram bot с Тестами https://t.me/gettestfromcontestbot
+
+### Мой сертификат о прохождении данного Контеста
+
+![Certificate_Yandex_algorithms_3](images/Yandex-pdf.png)
